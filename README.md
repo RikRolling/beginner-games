@@ -1,5 +1,5 @@
 # beginner-games
-Making short games to upskill my coding (will use CS50 as a guide potentially)
+Making short games to upskill my coding.
 What I would like to achieve:
 * Create a basic railway simulator game (END GOAL)
 * Create a hangman game
